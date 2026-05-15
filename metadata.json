@@ -1,0 +1,6 @@
+{
+  "name": "Point Coffee",
+  "description": "Premium Coffee Experience. Brewed to Precision. A cinematic, luxury coffee brand platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
